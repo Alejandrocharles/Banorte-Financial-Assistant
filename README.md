@@ -2,7 +2,7 @@
 Banorte Financial Assistant: Born in HackMty challenge, this AI-driven solution provides an interactive chat experience with a trained financial advisor. Utilizing prompts for precise financial guidance.
 
 ## Banorte Financial Advisor
-![Financial Advisor](./UntitledROBOT AI.png)
+![Financial Advisor](FINANCE ASSISTANT.png)
 
 ## About the Project
 
